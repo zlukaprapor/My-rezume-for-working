@@ -1,0 +1,177 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat";
+  background: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.wrapper {
+  background: #ffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.my_photo {
+  width: 370px;
+  height: 354px;
+}
+.my_cont {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contact {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contact_tel {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffff;
+  margin-bottom: 20px;
+}
+.contact_link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #80858f;
+}
+.contact_tel_stil {
+  margin-right: 10px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.skills_title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #ffff;
+}
+.skills {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.skills_item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff0808;
+  margin-left: 20px;
+}
+.skills_text {
+  color: #f5f7fa;
+}
+.my_cont {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+.intro {
+  margin-bottom: 65px;
+}
+.front {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 25px;
+}
+.pib {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.intro_abaut_my {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 413px;
+}
+.projects {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+  margin-top: 55px;
+}
+.link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.link_name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.bots {
+  color: #b3b3b3;
+  font-weight: 100;
+}
+.projects_font {
+  font-weight: 700;
+  margin-left: 17px;
+}
+.progect_botton {
+  margin-bottom: 55px;
+}
+.work_red {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.my_vorc {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.my_date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 14px;
+  color: #bfbfbf;
+}
+.tire {
+  color: #000000;
+  font-weight: 400;
+}
+.my_rez_tex {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-left: 17px;
+}
+.pro_education {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
