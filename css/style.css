@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   background: #f5f7fa;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -39,6 +39,7 @@ body {
   margin-left: 40px;
   margin-right: 40px;
 }
+
 .contact_tel {
   font-size: 22px;
   font-weight: 700;
@@ -54,7 +55,7 @@ body {
 }
 .contact_tel_stil {
   margin-right: 10px;
-  color: #ffffff;
+  fill: #80858f;
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
@@ -86,16 +87,16 @@ body {
   padding-top: 100px;
 }
 .intro {
-  margin-bottom: 65px;
+  margin-bottom: 25px;
 }
 .front {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
 }
 .pib {
-  font-size: 45px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 89px;
 }
@@ -110,10 +111,10 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 10px;
-  margin-top: 55px;
+  margin-top: 20px;
 }
 .link {
-  color: #595959;
+  color: #2b2828;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -133,13 +134,14 @@ body {
   margin-left: 17px;
 }
 .progect_botton {
-  margin-bottom: 55px;
+  margin-bottom: 25px;
 }
 .work_red {
   color: #ff6b08;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
+  margin-top: 10px;
 }
 .my_vorc {
   font-size: 16px;
@@ -153,7 +155,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-bottom: 14px;
-  color: #bfbfbf;
+  color: #979494;
 }
 .tire {
   color: #000000;
@@ -172,6 +174,6 @@ body {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 12px;
-  margin-bottom: 12px;
+  margin-top: 2px;
+  margin-bottom: 4px;
 }
