@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 body {
   font-family: 'Montserrat';
@@ -12,11 +13,11 @@ body {
   padding-left: 20px;
 }
 .wrapper {
-  background: #ffff;
+  background: #f5f7fa;
   display: flex;
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); */
 }
 .sidebar {
   background: #1e2939;
@@ -51,14 +52,12 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #80858f;
+  color: #ffff;
 }
-svg.contact_tel_stil {
-  fill: #80858f;
-}
+
 .contact_tel_stil {
   margin-right: 10px;
-  fill: #80858f;
+  color: #ffff;
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
@@ -83,7 +82,7 @@ svg.contact_tel_stil {
   margin-left: 20px;
 }
 .skills_text {
-  color: #f5f7fa;
+  color: #ffff;
 }
 .my_cont {
   padding-left: 100px;
@@ -107,7 +106,7 @@ svg.contact_tel_stil {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  width: 413px;
+  width: auto;
 }
 .projects {
   font-size: 22px;
@@ -122,6 +121,15 @@ svg.contact_tel_stil {
   font-weight: 400;
   line-height: 24px;
 }
+.dot {
+  color: #2b2828;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.link:hover {
+  color: #ff6b08ed;
+}
 .link_name {
   color: #595959;
   font-size: 14px;
@@ -135,6 +143,7 @@ svg.contact_tel_stil {
 .projects_font {
   font-weight: 700;
   margin-left: 17px;
+  margin-bottom: 5px;
 }
 .progect_botton {
   margin-bottom: 25px;
