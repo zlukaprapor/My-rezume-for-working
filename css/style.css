@@ -7,15 +7,15 @@
 body {
   font-family: 'Montserrat';
   background: #f5f7fa;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  padding-right: 20px;
-  padding-left: 20px;
+  /* padding-top: 40px;
+  padding-bottom: 40px; */
+  /* padding-right: 20px;
+  padding-left: 20px; */
 }
 .wrapper {
   background: #f5f7fa;
   display: flex;
-  max-width: 1100px;
+  max-width: 100%;
   margin: 0 auto;
   /* box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); */
 }
@@ -149,8 +149,8 @@ body {
   margin-bottom: 25px;
 }
 .work_red {
-  color: #ff6b08;
-  font-size: 16px;
+  color: #000;
+  font-size: 14px;
   font-weight: 700;
   line-height: 24px;
   margin-top: 10px;
@@ -160,13 +160,12 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-top: 10px;
-  margin-bottom: 15px;
 }
 .my_date {
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
-  margin-bottom: 14px;
+  /* margin-bottom: 14px; */
   color: #979494;
 }
 .tire {
